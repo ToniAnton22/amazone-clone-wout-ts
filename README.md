@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# App Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is project is made to demonstrate my capabilities of creating a web-application similar to "amazone.com".
+I will be using react for my front-end, firebase to handle my back-end and I will be using Javascript as my language of choice.
+
 
 ## Available Scripts
 
