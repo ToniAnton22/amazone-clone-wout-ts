@@ -25,7 +25,9 @@ function Header() {
       <div className="header__nav">
         <div className="header__selection">
           <span className="header__selectionLineOne">Hello Guest</span>
+          <Link to ="/login">
           <span className="header__selectionLineTwo">Sign In</span>
+          </Link>
         </div>
         <div className="header__selection">
           <span className="header__selectionLineOne">Returns</span>
@@ -39,7 +41,7 @@ function Header() {
           <div className="header__optionBasket">
             <ShoppingBasketIcon />
 
-            <span className="header_optionLineTwo header__basketCount">{basket?.lenght}</span>
+            <span className="header_optionLineTwo header__basketCount">{basket?.length}</span>
           </div>
         </Link>
       </div>

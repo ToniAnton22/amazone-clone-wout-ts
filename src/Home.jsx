@@ -1,4 +1,4 @@
-import Product from 'Product'
+import Product from './Product'
 import React from 'react'
 import './Home.css'
 
